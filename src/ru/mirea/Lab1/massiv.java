@@ -69,7 +69,7 @@ public class massiv{ //4_2
         System.out.println(minn);
     }
 }
-
+*/
 public class massiv{ //5
     public static void main(String[] args) {
         for(int i = 0; i < args.length; i++) {
@@ -77,7 +77,7 @@ public class massiv{ //5
         }
     }
 }
-
+/*
 public class massiv{//6
     public static void main(String[] args){
         int num = 10;
@@ -89,7 +89,7 @@ public class massiv{//6
         }
     }
 }
-*/
+
 public class massiv{ //7
     public static int get_factorial(int f){
         int factorial_result = 1;
@@ -106,3 +106,4 @@ public class massiv{ //7
     }
 }
 
+*/
